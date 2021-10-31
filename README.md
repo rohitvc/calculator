@@ -1,4 +1,6 @@
-# calculator2
+# Calculator
+
+<img src="./src/assets/calculator.png" width="100%">
 
 ## Project setup
 ```
